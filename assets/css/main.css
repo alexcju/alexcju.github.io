@@ -2813,8 +2813,7 @@ input, select, textarea {
 			}
 
 				.main .container .image.primary:first-child {
-					display: none;
-					/* margin: -1.5em 0 2.5em 0; */
+					margin: -1.5em 0 2.5em 0;
 				}
 
 			.main .goto-next {
@@ -2942,8 +2941,7 @@ input, select, textarea {
 			}
 
 				.main .container .image.primary:first-child {
-					display: none;
-					/* margin: -2em 0 2.5em 0; */
+					margin: -2em 0 2.5em 0;
 				}
 
 		/* Footer */
