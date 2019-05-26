@@ -2747,7 +2747,7 @@ input, select, textarea {
 		/* Main BG */
 
 			.main-bg {
-				display: none;
+				/* display: none; */
 			}
 
 		/* Main */
