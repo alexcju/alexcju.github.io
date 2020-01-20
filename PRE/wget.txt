@@ -1,1 +1,0 @@
-wget.exe -x -np -rmpEke --retry-on-http-error=429 https://www.princetonracing.com/
